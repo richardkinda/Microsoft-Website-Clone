@@ -687,6 +687,10 @@ footer ul li a {
     text-align: center;
   }
 
+  .windows .content {
+    width: 80%;
+  }
+
   .windows .content h2 {
     font-size: 1.25rem;
     margin-bottom: 1.5em;
